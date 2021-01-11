@@ -1,3 +1,2 @@
 # random-number
-
-## Just for fun
+Just fun for fun!
